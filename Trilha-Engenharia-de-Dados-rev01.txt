@@ -1,0 +1,36 @@
+1. Construção e gerenciamento de pipeline de dados e ETL:
+- Apache Kafka
+- Apache AirFlow
+- Apache Beam
+- Apache Flink
+- Apache Storm
+
+2. Processamento de dados em grande escala (Big Data):
+- Ecossistema Hadoop
+	- HDFS (sistema de arquivos)
+	- Hive (Data Warehouse)
+	- Map Reduce (processamento distribuído)
+	- YARN (gerenciador de recursos do cluster)
+	- PIG (scripts para jobs)
+	- Sqoop (transferência dados BD relacional)
+	- Flume (ingestão de diversas fontes)
+	- Zookeeper (coordenação para aplicações distribuídas)
+	- OOzie (gerenciamento dos jobs)
+- Apache Spark
+
+3. Banco de Dados NoSQL:
+- Cassandra
+- HBase
+- MongoDB
+
+4. Soluções Google Cloud Platform
+- Pub/Sub (mensageria)
+- Data Prep (preparação dos dados)
+- Data Proc (processamento em alta escala - Hadoop/Spark)
+- Dataflow (pipeline de dados)
+- Data Fusion (pipeline de dados)
+- Composer (orquestração)
+- Cloud SQL (Banco relacional MySQL, PostgreSQL e SQL Server)
+- Cloud Big Table (Banco NoSQL em alta escala)
+- Big Query (Data Warehouse)
+- Cloud Storage (Data Lake)
