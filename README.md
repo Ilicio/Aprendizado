@@ -1,4 +1,4 @@
-# aprendizado
+# Aprendizado
 Descrição:
 Trilhas de aprendizado para o time interno.
 
